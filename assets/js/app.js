@@ -4,14 +4,14 @@ var intervalId
 var clockRunning = false
 
 let TriviaGame = {
-    time: 8,
+    time: 30,
     questions: 5,
     submit: false,
     answers: [
         'orange', //1
         'cambodian', //2
         'chicken feet', //3
-        'r34', //4
+        'r35', //4
         'ms'  //5
     ],
     score: 0,
