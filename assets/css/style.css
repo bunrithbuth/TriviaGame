@@ -1,0 +1,15 @@
+.Header {
+    opacity: 0.5;
+}
+
+body {
+    background-image: url('../images/bg.jpg');
+    min-height: 100vh;
+    background-image: cover;
+}
+
+.questions {
+    background-color: whitesmoke;
+    opacity: 0.95;
+    padding-bottom: 5px;
+}
